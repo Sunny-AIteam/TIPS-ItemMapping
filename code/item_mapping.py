@@ -8,18 +8,10 @@ plt.rcParams['font.family'] ='Malgun Gothic'
 plt.rcParams['axes.unicode_minus'] =False
 from collections import Counter
 
-
-
-
 def test():
     print('working!')
     return 
-
-
-
 # ==================================================================== Data Structure Transformation 
-
-
 
 def split_text_to_words(row):
     """

@@ -1,0 +1,6 @@
+{
+    "import_path": "./data/solution.csv",
+    "export_folder": "./result/0411/algo10/pooppad",
+    "evaluation_export_path": "./0411/pooppad_eval_algo10"
+  }
+  
