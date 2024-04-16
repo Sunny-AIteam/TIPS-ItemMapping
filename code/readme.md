@@ -65,9 +65,9 @@ for i in item1:
 if (((size1) and (size2)) and (size1 != size2)) : # 사이즈 정보가 없으면 g으로 구분 => 사이즈값이 존재하고 둘이 다를때만 다른상품
         return "F"
 ```
-5. Text
-   => when filter out unit, quantity, and so on, precision increase (P:80, R:59, F1: 63)
-   => when comparing original text without stopwords, recall increase (P:70, R:65, F1:61)
+5. Text  
+   => _when filter out unit, quantity, and so on, precision increase (P:80, R:59, F1: 63)_  
+   => _when comparing original text without stopwords, recall increase (P:70, R:65, F1:61)_
 - if item has more than 3 words, drop out stopwords
 - then compute fuzzy matching score
 - if score is over 50, they are the same items
