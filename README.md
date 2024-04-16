@@ -1,4 +1,4 @@
-# TIPS-IItemMapping
+# TIPS-ItemMapping
 
 TIPS 과제 KPI - 상품명 매핑 알고리즘 코드입니다.  (last updated 16.Apr.2024)  
   
